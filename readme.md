@@ -23,6 +23,9 @@
 EJECUCIÓN DEL CÓDIGO DE VALIDACIÓN DE IOTA IDENTITY COMO SOLUCIÓN PARA GARANTIZAR LA IDENTIDAD DE LOS DISPOSITIVOS IOT
 EN ENTORNOS SATELITALES
 
+1- Acceda a bindings/wasm/examples 
+2 -Siga los pasos descritos en el documento readme.md
+
 
 ---
 ![image](https://github.com/darvoxy/IOTA-Identity-Satellite/assets/55927783/7dfa5139-58a7-4735-8b23-6888a4a8c8fe)
