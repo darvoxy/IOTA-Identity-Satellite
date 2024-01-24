@@ -24,6 +24,7 @@ EJECUCIÓN DEL CÓDIGO DE VALIDACIÓN DE IOTA IDENTITY COMO SOLUCIÓN PARA GARAN
 EN ENTORNOS SATELITALES
 
 1- Acceda a bindings/wasm/examples 
+
 2 -Siga los pasos descritos en el documento readme.md
 
 
