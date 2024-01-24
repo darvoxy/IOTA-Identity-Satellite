@@ -1,6 +1,7 @@
 ![banner](./../../../documentation/static/img/Banner/banner_identity.svg)
 
-## IOTA Identity Examples
+## Example for validation of IOTA Identity as a solution for securing the identity of IoT devices
+
 
 The following code examples demonstrate how to use the IOTA Identity Wasm bindings in JavaScript/TypeScript.
 
@@ -32,7 +33,6 @@ For instance, to run the `6_create_vp_IoT_Sat` example execute:
 npm run example:node -- 6_create_vp_IoT_Sat
 ```
 
-## Example for validation of IOTA Identity as a solution for securing the identity of IoT devices
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 | Name                                                      | Information                                                                                                      
