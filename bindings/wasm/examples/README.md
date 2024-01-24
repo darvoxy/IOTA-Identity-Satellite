@@ -32,9 +32,8 @@ For instance, to run the `6_create_vp_IoT_Sat` example execute:
 npm run example:node -- 6_create_vp_IoT_Sat
 ```
 
-## Basic Examples
+## Example for validation of IOTA Identity as a solution for securing the identity of IoT devices
 
-The following basic CRUD (Create, Read, Update, Delete) examples are available:
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 | Name                                                      | Information                                                                                                      
 | [6_create_vp_IoT_Sat](scr/0_basic/6_create_vp_IoT_Sat.ts) | Demuestra como crear DID, credenciales y presentación verificable para un dispositivo IoT |
