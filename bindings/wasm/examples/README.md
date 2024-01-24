@@ -39,10 +39,6 @@ The following basic CRUD (Create, Read, Update, Delete) examples are available:
 | Name                                                      | Information                                                                                                      
 | [6_create_vp_IoT_Sat](scr/0_basic/6_create_vp_IoT_Sat.ts) | Demuestra como crear DID, credenciales y presentación verificable para un dispositivo IoT |
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-## Advanced Examples
 
-                 |
 
-## Browser
 
-While the examples should work in a browser environment, we do not provide browser examples yet.
